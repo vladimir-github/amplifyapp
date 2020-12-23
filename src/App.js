@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <b>Test</b>
-        <h1>Hello from V2 v01</h1>
+        <h1>Hello from V2 v04</h1>
       </header>
     </div>
   );
